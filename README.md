@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C++**
 
-- 📫 How to reach me [www.nitish.infinityfreeapp.com](www.nitish.infinityfreeapp.com)
+- 📫 How to reach me [https://nitish.infinityfreeapp.com/](www.nitish.infinityfreeapp.com)
 
 
 - 📄 Know about my experiences [www.resume-link.com](www.resume-link.com)
